@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IoTProject</string>
+    <string name="title_activity_new_activitycheck">NewActivitycheck</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_new_activitypredict">NewActivitypredict</string>
+    <string name="title_activity_new_activitypredicttt">NewActivitypredicttt</string>
+    <string name="title_activity_main_activitycontrol">MainActivitycontrol</string>
+</resources>
